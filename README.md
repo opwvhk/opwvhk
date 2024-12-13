@@ -5,7 +5,7 @@ Hi there! :wave:
 
 My name is Oscar, and I dabble a bit in Open Source. Some of my roles:
 
-* Author of [Jetbrains plugin for Avro IDL Schema Support](https://plugins.jetbrains.com/plugin/15728-apache-avro-idl-schema-support)
+* Author of [Jetbrains plugin for Avro Schema Support](https://plugins.jetbrains.com/plugin/15728-apache-avro-schema-support)
 * [Apache Avro](https://avro.apache.org/) [on GitHub](https://github.com/apache/avro/pulls?q=is%3Apr+author%3Aopwvhk) PMC
 * And [a few other things](https://github.com/opwvhk?tab=repositories&q=&type=source&language=java&sort=)
 
