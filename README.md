@@ -13,6 +13,8 @@ My name is Oscar, I'm a data engineer, programmer and I contribute to Open Sourc
 * And author of [a few other things](https://github.com/opwvhk?tab=repositories&q=&type=source&sort=stargazers)
 
 You may also know me from my talk [It's not the size of your data, it's how you use it](https://www.youtube.com/watch?v=m4YQTDVsydU), at the 2019 bol.com IT conference
+<!--
 &nbsp;
 
 ![Oscar's Github Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=opwvhk&theme=github)
+-->
